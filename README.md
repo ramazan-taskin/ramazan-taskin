@@ -45,16 +45,12 @@
 
 
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=solarized-dark" width="480" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=solarized-dark" width="320" />
+  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Account-Age-6 Years-blue?style=flat&logo=github" alt="Account Age" />
+  <img src="https://img.shields.io/github/repos/ramazan-taskin?style=flat&logo=github" alt="Public Repos" />
+  <img src="https://img.shields.io/github/gists/ramazan-taskin?style=flat&logo=github" alt="Public Gists" />
+  <img src="https://img.shields.io/github/commit-activity/m/ramazan-taskin?style=flat&logo=github" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/commit-activity/y/ramazan-taskin?style=flat&logo=github" alt="Yearly Commits" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=solarized-dark" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=solarized_dark" width="600" />
-</p>
