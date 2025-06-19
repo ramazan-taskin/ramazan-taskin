@@ -1,13 +1,11 @@
-# 👋 Merhaba, ben Ramazan Taşkın
+# 👋 Hello, I Ramazan
 
-Sistem uzmanı olma hedefiyle açık kaynak dünyasında aktif olarak çalışıyor, birçok sistem izleme ve yönetim aracı üzerinde deneyim kazanıyorum. Linux, ağ güvenliği ve izleme sistemlerine özel ilgim var.
-
-📧 **İletişim:** ramazan@walhalla.uk  
+📧 **Contact:** ramazan@walhalla.uk  
 🐦 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
 
 ---
 
-### 🛠️ Kullandığım Araçlar
+### 🛠️ Tools I Use
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat&logo=zabbix&logoColor=white)
@@ -28,7 +26,7 @@ Sistem uzmanı olma hedefiyle açık kaynak dünyasında aktif olarak çalışı
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default)  
