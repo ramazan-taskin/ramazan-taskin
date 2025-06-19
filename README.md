@@ -37,14 +37,15 @@
 
 
 ---
+
 ### 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default" alt="GitHub Stats" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default" alt="Top Languages" />
     </td>
   </tr>
@@ -54,7 +55,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
