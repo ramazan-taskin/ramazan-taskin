@@ -44,13 +44,21 @@
 
 
 
-
 <p align="center">
+  <!-- Profil Görüntüleme -->
   <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Account-Age-6 Years-blue?style=flat&logo=github" alt="Account Age" />
-  <img src="https://img.shields.io/github/repos/ramazan-taskin?style=flat&logo=github" alt="Public Repos" />
-  <img src="https://img.shields.io/github/gists/ramazan-taskin?style=flat&logo=github" alt="Public Gists" />
-  <img src="https://img.shields.io/github/commit-activity/m/ramazan-taskin?style=flat&logo=github" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/commit-activity/y/ramazan-taskin?style=flat&logo=github" alt="Yearly Commits" />
+
+  <!-- Toplam Public Repo Sayısı -->
+  <img src="https://img.shields.io/github/repos/ramazan-taskin?label=Public%20Repos&logo=github&style=flat" alt="Public Repos" />
+
+  <!-- Toplam Gist Sayısı -->
+  <img src="https://img.shields.io/github/gists/ramazan-taskin?label=Gists&logo=github&style=flat" alt="Gists" />
+
+  <!-- Aylık Commit Sayısı -->
+  <img src="https://img.shields.io/github/commit-activity/m/ramazan-taskin?label=Commits%20%28month%29&logo=github&style=flat" alt="Monthly Commits" />
+
+  <!-- Yıllık Commit Sayısı -->
+  <img src="https://img.shields.io/github/commit-activity/y/ramazan-taskin?label=Commits%20%28year%29&logo=github&style=flat" alt="Yearly Commits" />
 </p>
+
 
