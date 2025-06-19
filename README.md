@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ramazan Taşkın</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20views&color=0e75b6&style=flat" alt="ramazan-taskin" /> </p>
+# 👋 Merhaba, ben Ramazan Taşkın
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin" alt="ramazan-taskin" /></a> </p>
+Sistem uzmanı olma hedefiyle açık kaynak dünyasında aktif olarak çalışıyor, birçok sistem izleme ve yönetim aracı üzerinde deneyim kazanıyorum. Linux, ağ güvenliği ve izleme sistemlerine özel ilgim var.
 
-<p align="left"> <a href="https://twitter.com/ramazantaskinn" target="blank"><img src="https://img.shields.io/twitter/follow/ramazantaskinn?logo=twitter&style=for-the-badge" alt="ramazantaskinn" /></a> </p>
+📧 **İletişim:** ramazan@walhalla.uk  
+🐦 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
 
-- 📫 How to reach me **ramazan@walhalla.uk**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ramazantaskinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramazantaskinn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ramazan-taşkın-177923237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan-taşkın-177923237" height="30" width="40" /></a>
-<a href="https://instagram.com/ramazantaskiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramazantaskiin" height="30" width="40" /></a>
-</p>
-
-### 🧰 Languages and Tools
+### 🛠️ Kullandığım Araçlar
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat&logo=zabbix&logoColor=white)
@@ -23,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE1D23?style=flat&logo=fortinet&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -33,9 +26,11 @@
 ![Syncthing](https://img.shields.io/badge/Syncthing-007ACC?style=flat&logo=sync&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-67A2D9?style=flat&logo=apachespark&logoColor=white)
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazan-taskin&show_icons=true&locale=en&layout=compact" alt="ramazan-taskin" /></p>
+### 📊 GitHub İstatistikleri
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&locale=en" alt="ramazan-taskin" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default)  
+![Stats](https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ramazan-taskin&theme=default)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&" alt="ramazan-taskin" /></p>
