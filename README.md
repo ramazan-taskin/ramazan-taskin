@@ -38,9 +38,19 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default)  
-![Stats](https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ramazan-taskin&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default" alt="Ramazan's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
+</p>
