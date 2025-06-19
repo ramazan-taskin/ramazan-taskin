@@ -51,8 +51,10 @@
   </tr>
 </table>
 
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -60,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
 </p>
