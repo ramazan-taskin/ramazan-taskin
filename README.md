@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramazan
+# 👋 Hi,
 
 📧 **Contact:** ramazan@walhalla.uk  
 🌟 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
