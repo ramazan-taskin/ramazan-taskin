@@ -64,3 +64,59 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
 </p>
+
+
+
+<!-- GitHub Stats (Modern - inspired by @dimkagithub) -->
+
+<p align="center">
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark&hide_border=true" width="605" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=solarized_dark" width="605" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  </a>
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=solarized_dark&utcOffset=+3" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  </a>
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://badges.pufler.dev/years/ramazan-taskin?logo=GitHub" />
+  </a>
+  <a href="https://github.com/ramazan-taskin?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/ramazan-taskin?logo=GitHub" />
+  </a>
+  <a href="https://gist.github.com/ramazan-taskin">
+    <img src="https://badges.pufler.dev/gists/ramazan-taskin?logo=GitHub" />
+  </a>
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://badges.pufler.dev/commits/monthly/ramazan-taskin?logo=GitHub" />
+  </a>
+  <a href="https://github.com/ramazan-taskin">
+    <img src="https://badges.pufler.dev/commits/yearly/ramazan-taskin?logo=GitHub" />
+  </a>
+</p>
+
