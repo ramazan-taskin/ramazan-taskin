@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ramazan
 
 📧 **Contact:** ramazan@walhalla.uk  
-🐦 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
+🌟 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
 
 ---
 
@@ -35,26 +35,30 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&theme=default" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=default" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark&hide_border=true" width="605" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=solarized_dark" width="605" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=solarized_dark&utcOffset=+3" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -62,61 +66,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
-</p>
-
-
-
-<!-- GitHub Stats (Modern - inspired by @dimkagithub) -->
-
-<p align="center">
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark&hide_border=true" width="605" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=solarized_dark" width="605" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://badges.pufler.dev/years/ramazan-taskin?logo=GitHub" />
+  <img src="https://badges.pufler.dev/repos/ramazan-taskin?logo=GitHub" />
+  <img src="https://badges.pufler.dev/gists/ramazan-taskin?logo=GitHub" />
+  <img src="https://badges.pufler.dev/commits/monthly/ramazan-taskin?logo=GitHub" />
+  <img src="https://badges.pufler.dev/commits/yearly/ramazan-taskin?logo=GitHub" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=solarized_dark" width="300" />
-  </a>
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=solarized_dark&utcOffset=+3" width="300" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
-  </a>
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://badges.pufler.dev/years/ramazan-taskin?logo=GitHub" />
-  </a>
-  <a href="https://github.com/ramazan-taskin?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ramazan-taskin?logo=GitHub" />
-  </a>
-  <a href="https://gist.github.com/ramazan-taskin">
-    <img src="https://badges.pufler.dev/gists/ramazan-taskin?logo=GitHub" />
-  </a>
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://badges.pufler.dev/commits/monthly/ramazan-taskin?logo=GitHub" />
-  </a>
-  <a href="https://github.com/ramazan-taskin">
-    <img src="https://badges.pufler.dev/commits/yearly/ramazan-taskin?logo=GitHub" />
-  </a>
-</p>
-
