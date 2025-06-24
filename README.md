@@ -11,33 +11,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true" width="605" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=shadow_red" width="605" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ramazan-taskin&theme=tokyonight&hide_border=true" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=shadow_red" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=shadow_red&utcOffset=3" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=shadow_red" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=shadow_red" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=tokyonight" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=shadow_red&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin&theme=shadow_red&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=shadow_red" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=tokyonight" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=tokyonight" width="300" />
 </p>
 
 <p align="center">
