@@ -11,6 +11,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=tokyonight&hide_border=true" width="600" />
 </p>
 
@@ -28,9 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=tokyonight" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
