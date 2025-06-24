@@ -16,29 +16,29 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=solarized_dark" width="605" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=shadow_red" width="605" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=solarized_dark" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=solarized_dark&utcOffset=+3" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=shadow_red" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=shadow_red&utcOffset=+3" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=solarized_dark" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=shadow_red" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=shadow_red" width="300" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=shadow_red" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ramazan-taskin&theme=shadow_red&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=default" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=shadow_red" alt="Contribution Graph" />
 </p>
 
 
