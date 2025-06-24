@@ -11,15 +11,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ramazan-taskin&theme=tokyonight&hide_border=true" width="600" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=ramazan-taskin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
