@@ -10,7 +10,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true" width="605" />
 </p>
@@ -21,7 +20,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ramazan-taskin&theme=shadow_red" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=shadow_red&utcOffset=+3" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramazan-taskin&theme=shadow_red&utcOffset=3" width="300" />
 </p>
 
 <p align="center">
@@ -30,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=shadow_red" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazan-taskin&theme=shadow_red&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -41,15 +40,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=shadow_red" alt="Contribution Graph" />
 </p>
 
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/years/ramazan-taskin?logo=GitHub" />
-  <img src="https://badges.pufler.dev/repos/ramazan-taskin?logo=GitHub" />
-  <img src="https://badges.pufler.dev/gists/ramazan-taskin?logo=GitHub" />
-  <img src="https://badges.pufler.dev/commits/monthly/ramazan-taskin?logo=GitHub" />
-  <img src="https://badges.pufler.dev/commits/yearly/ramazan-taskin?logo=GitHub" />
 </p>
-
