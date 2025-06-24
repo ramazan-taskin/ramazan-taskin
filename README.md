@@ -18,13 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="600" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=ramazan-taskin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=tokyonight" width="600" />
@@ -39,3 +32,6 @@
   <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
