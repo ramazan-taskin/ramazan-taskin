@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark&hide_border=true" width="605" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&hide_border=true" width="605" />
 </p>
 
 <p align="center">
