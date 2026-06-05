@@ -1,37 +1,89 @@
-w# 👋 Hi,
+# 👋 Hi, I'm Ramazan Taşkın
 
-📧 **Contact:** ramazantaskiin@outlook.com 
-🌟 [Twitter](https://twitter.com/ramazantaskiin) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
+### IT Specialist / IT Manager
+
+Building and maintaining reliable infrastructure — systems administration, automation, cloud, and containerized workloads. Focused on monitoring, security, and keeping things running.
+
+📧 **ramazantaskiin@outlook.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-taşkın-177923237)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ramazantaskiin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ramazantaskiin)
 
 ---
-### 🛠️ Tools & Technologies I Use
-<p align="left"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Dreamweaver-35FA00?style=flat&logo=adobe-dreamweaver&logoColor=white" /> <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white" /> <img src="https://img.shields.io/badge/Zabbix-EE0000?style=flat&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Graylog-31363F?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgdmlsZXJhZ3Vlc0JhY2tncm91bmQ9Im5vbmUiPjwvc3ZnPg==&logoColor=white" /> <img src="https://img.shields.io/badge/Nagios-000000?style=flat&logo=nagios&logoColor=white" /> <img src="https://img.shields.io/badge/CasaOS-1F4068?style=flat&logo=home-assistant&logoColor=white" /> <img src="https://img.shields.io/badge/YunoHost-FF5F57?style=flat&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Syncthing-007ACC?style=flat&logo=sync&logoColor=white" /> <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat&logo=nextcloud&logoColor=white" /> <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-EE1D23?style=flat&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfSense&logoColor=white" /> <img src="https://img.shields.io/badge/Veeam-00B336?style=flat&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" /> <img src="https://img.shields.io/badge/VoceChat-0099ff?style=flat&logo=wechat&logoColor=white" /> <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=flat&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Tailscale-0042FF?style=flat&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/AltServer-5F7FFF?style=flat&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/MX_Mail-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_Mobile-0078D7?style=flat&logo=windows&logoColor=white" /> </p>
+
+## 🧰 Tech Stack
+
+**Cloud & Automation**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
+![CasaOS](https://img.shields.io/badge/CasaOS-1F4068?style=flat-square&logo=homeassistant&logoColor=white)
+
+**Operating Systems & Virtualization**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+**Monitoring & Observability**
+
+![Zabbix](https://img.shields.io/badge/Zabbix-EE0000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-31363F?style=flat-square&logo=graylog&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white)
+
+**Networking & Security**
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE1D23?style=flat-square&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-0042FF?style=flat-square&logo=tailscale&logoColor=white)
+
+**Storage & Backup**
+
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Syncthing](https://img.shields.io/badge/Syncthing-0891D1?style=flat-square&logo=syncthing&logoColor=white)
+
+**Development & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=tokyonight&hide_border=true" width="600" />
+  <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="600" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramazan-taskin&theme=tokyonight" width="600" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramazan-taskin&theme=tokyonight" width="300" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramazan-taskin&theme=tokyonight" width="300" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramazan-taskin&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
