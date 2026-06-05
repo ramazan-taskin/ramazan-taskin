@@ -1,7 +1,7 @@
-# 👋 Hi,
+w# 👋 Hi,
 
 📧 **Contact:** ramazantaskiin@outlook.com 
-🌟 [Twitter](https://twitter.com/ramazantaskinn) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
+🌟 [Twitter](https://twitter.com/ramazantaskiin) • 💼 [LinkedIn](https://www.linkedin.com/in/ramazan-taşkın-177923237) • 📸 [Instagram](https://instagram.com/ramazantaskiin)
 
 ---
 ### 🛠️ Tools & Technologies I Use
