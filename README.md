@@ -80,10 +80,5 @@ Building and maintaining reliable infrastructure — systems administration, aut
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramazan-taskin&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazan-taskin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ramazan-taskin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/ramazan-taskin?template=classic&base.indepth=false&base.hireable=false&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics" />
 </p>
