@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Ramazan Taşkın
-
 ### IT Specialist - IT Manager
-
-Building and maintaining reliable infrastructure — systems administration, automation, cloud, and containerized workloads. Focused on monitoring, security, and keeping things running.
 
 📧 **ramazantaskiin@outlook.com**
 
