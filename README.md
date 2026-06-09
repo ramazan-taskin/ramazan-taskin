@@ -68,9 +68,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramazan-taskin&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
